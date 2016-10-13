@@ -1,0 +1,756 @@
+                      CSEE 2015                               
+
+
+
+  111/1B    P0220     GENERAL STUDIES           3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  112/1B    P0220     HISTORY                   3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  112/2B    P0220     HISTORY                   3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  121/1B    P0220     KISWAHILI                 3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  121/2B    P0220     KISWAHILI                 3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  122/1B    P0220     ENGLISH LANGUAGE          3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  122/2B    P0220     ENGLISH LANGUAGE          3             
+
+
+  TABORA GIRLS SEC. SCHOOL CENTRE    TABORA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  111/1B   S0857     GENERAL STUDIES           3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  111/1B   S0804     GENERAL STUDIES           3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  112/1B   S0857     HISTORY                   3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  112/1B   S0804     HISTORY                   3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  112/2B   S0857     HISTORY                   3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  112/2B   S0804     HISTORY                   3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  113/1B    S0804     GEOGRAPHY                 3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  113/2B    S0804     GEOGRAPHY                 3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  121/1B   S0857     KISWAHILI                 3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  121/2B   S0857     KISWAHILI                 3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  122/1B   S0857     ENGLISH LANGUAGE          3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  122/1B   S0804     ENGLISH LANGUAGE          3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  122/2B   S0857     ENGLISH LANGUAGE          3             
+
+
+  LONGIDO SECONDARY SCHOOL           ARUSHA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CSEE 2015                               
+
+
+
+  122/2B   S0804     ENGLISH LANGUAGE          3             
+
+
+  MVUMI SECONDARY SCHOOL             DODOMA                   
+
+
+            1       1                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

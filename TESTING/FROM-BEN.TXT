@@ -1,0 +1,464 @@
+﻿                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0110  FRENCH                        3             123/1    P1612     FRENCH                        3 
+
+
+ ILBORU SECONDARY SCHOOL CENTRE         ARUSHA                 ARUSHA SCHOOL CENTRE                   ARUSHA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0377  FRENCH                        5             123/1    P0620     FRENCH                        3 
+
+
+ LUGALO J.W.T.Z. CENTRE              DAR ES SALAAM             TEGETA SECONDARY SCHOOL CENTRE      DAR ES SALAAM   
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0320  FRENCH                        3             123/1    P1248     FRENCH                        3 
+
+
+ KIGOMA SECONDARY SCHOOL CENTRE         KIGOMA                 ILEMI SECONDARY SCHOOL CENTRE           MBEYA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0798  FRENCH                        3             123/1    P0326     FRENCH                        3 
+
+
+ KOROGWE TEACHERS COLLEGE CENTR          TANGA                 LUMUMBA SECONDARY SCHOOL CENTR         UNGUJA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0383  FRENCH                        3             123/1    P0832     FRENCH                        4 
+
+
+ BEN BELLA SECONDARY SCHOOL CEN         UNGUJA                 KIPONDA SECONDARY SCHOOL CENTR         UNGUJA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0144  FRENCH                        3             123/1    P0333     FRENCH                        3 
+
+
+ NSUMBA SECONDARY SCHOOL CENTRE          GEITA                 MWANZA SECONDARY SCHOOL CENTRE          GEITA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/1   P0546  FRENCH                        3             123/2    P0110     FRENCH                        3 
+
+
+ PAMBA (I A E) SEC. SCHOOL CENT          GEITA                 ILBORU SECONDARY SCHOOL CENTRE         ARUSHA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/2   P1612  FRENCH                        3             123/2    P0377     FRENCH                        5 
+
+
+ ARUSHA SCHOOL CENTRE                   ARUSHA                 LUGALO J.W.T.Z. CENTRE              DAR ES SALAAM   
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/2   P0620  FRENCH                        3             123/2    P0320     FRENCH                        3 
+
+
+ TEGETA SECONDARY SCHOOL CENTRE      DAR ES SALAAM             KIGOMA SECONDARY SCHOOL CENTRE         KIGOMA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/2   P1248  FRENCH                        3             123/2    P0798     FRENCH                        3 
+
+
+ ILEMI SECONDARY SCHOOL CENTRE           MBEYA                 KOROGWE TEACHERS COLLEGE CENTR          TANGA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/2   P0326  FRENCH                        3             123/2    P0383     FRENCH                        3 
+
+
+ LUMUMBA SECONDARY SCHOOL CENTR         UNGUJA                 BEN BELLA SECONDARY SCHOOL CEN         UNGUJA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/2   P0832  FRENCH                        4             123/2    P0144     FRENCH                        3 
+
+
+ KIPONDA SECONDARY SCHOOL CENTR         UNGUJA                 NSUMBA SECONDARY SCHOOL CENTRE          GEITA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         ACSEE 2013                                                  ACSEE 2013                       
+
+
+
+   123/2   P0333  FRENCH                        3             123/2    P0546     FRENCH                        3 
+
+
+ MWANZA SECONDARY SCHOOL CENTRE          GEITA                 PAMBA (I A E) SEC. SCHOOL CENT          GEITA       
+
+
+         1       1                                                      1       1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,136 @@
+body {
+    /*background: #f5f5f5;*/
+    color: #777777;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    /*background: #f0f0f0;*/
+}
+
+.header {
+    top: 0;
+    position: absolute;
+    width: 800px;
+    height: 70px;
+    background: #13a651;
+    box-shadow: 0px 1px 5px rgba(0,0,0, 0.5);
+    z-index: 2;
+    border-bottom: 1px solid #777;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    background: url('../images/necta-logo.png') no-repeat;
+}
+
+.form {
+    margin-top: 70px;
+    width: 100%;
+    background: #f8f8f8;
+    padding: 30px 0;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background: #999;
+    color: #eee;
+    clear: both;
+}
+
+.copyright {
+    text-align: left;
+    float: left;
+    padding: 0 30px;
+}
+
+.version {
+    text-align: right;
+    float: right;
+    padding: 0 30px;
+}
+
+.form-left {
+    text-align: right;
+    width: 40%;
+    font-weight: bold;
+
+}
+
+.form-right {
+    width: 60%;
+}
+
+.form td {
+    padding: 5px;
+}
+
+.form input {
+    width: 250px;
+    height: 20px;
+}
+
+.form select {
+    width: 258px;
+    height: 28px;
+}
+
+.form table {
+    width: 100%;
+}
+
+.form input, .form select {
+    border-radius: 6px;
+    padding: 3px;
+    outline: none;
+    /*border: 1px solid #e0e0e0;*/
+    border: 1px solid #d0d0d0;
+    /*box-shadow: 0px 0px 15px #dddddd;*/
+}
+
+.form input:focus, .form select:focus {
+    border: 1px solid #13a651;
+    box-shadow: 0px 0px 7px lightblue;
+}
+
+.progressbar-outer {
+    background: #f8f8f8;
+    width: 255px;
+    height: 20px;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
+}
+
+.progressbar-inner {
+    width: 80%;
+    height: 20px;
+    background-color: #13a651;
+    border-radius: 4px;
+}
+
+.progressbar-bg {
+    background-image: url('../images/progress.gif');
+    height: 20px;
+    width: 100%;
+    opacity: 0.54;
+}
+
+.form button {
+    background: #bbb;
+    border:  1px solid #aaa;
+    padding: 7px 10px;
+    color: #fff;
+    border-radius: 6px;
+    text-shadow: 1px 1px #aaa;
+    /*font-weight: bold;*/
+}
+
+.form button:hover {
+    background: #13a651;
+    cursor: pointer;
+}
